@@ -1,0 +1,108 @@
+body {background: #f6f6f6;}
+.foot {background: url(../images/footbg2.jpg) 0 bottom repeat-x;}
+.us_product  {background: #fff;}
+.us_product h2 {padding-left: 30px;padding-right: 25px;margin-bottom: 0;top: 81px;width: 877px;z-index: 99;background: #fff;left: 50%;border-bottom: 2px solid #f6f6f6;}
+.us_product h2 input {width: 158px;font-size: 14px; background: url(../images/search.gif) 135px center no-repeat;background-position: 135px !important;}
+.us_product h2 a {width: 86px;height: 30px;float: right;line-height: 30px;text-align: center;margin-top: 20px;border-radius: 20px;-moz-border-radius:20px;margin-left: 10px;font-size: 14px;}
+.us_product h2 a span {display: inline-block;width: 86px;height: 30px;border-radius: 20px;-moz-border-radius:20px;margin: 0;padding: 0;background: none;font-size: 14px;color: inherit;}
+.us_product h2 .jxl1 {color: #76c5ee;border: 1px solid #76c5ee;}
+.us_product h2 .jxl2 {color: #adca24;border: 1px solid #adca24;}
+.us_product h2 .jxl3 {color: #2caf85;border: 1px solid #2caf85;}
+.us_product h2 .jxl4 {color: #c06d9e;border: 1px solid #c06d9e;}
+.us_product h2 .active .jxl1 {color: #fff;background: #76c5ee;}
+.us_product h2 .active .jxl2 {color: #fff;background: #adca24;}
+.us_product h2 .active .jxl3 {color: #fff;background: #2caf85;}
+.us_product h2 .active .jxl4 {color: #fff;background: #c06d9e;}
+.us_product h2 a:hover .jxl1 {color: #fff;background: #76c5ee;}
+.us_product h2 a:hover .jxl2 {color: #fff;background: #adca24;}
+.us_product h2 a:hover .jxl3 {color: #fff;background: #2caf85;}
+.us_product h2 a:hover .jxl4 {color: #fff;background: #c06d9e;}
+
+
+#owl-demo2 {margin-top: 40px;margin-bottom: 40px;}
+.us_product .con {background:#f6f6f6;}
+.us_product ul {width: 102%;}
+.us_product ul li {width: 31.333%;padding-right: 2%;}
+.us_product ul li dl {background: #fff;margin-top: 20px;-moz-box-shadow: 1px 1px 5px #d2d2cf;box-shadow: 1px 1px 5px #d2d2cf;position: relative;}
+.us_product ul li dl dt .xz1 {background: url(../images/xingzhuang.png) 0 0 no-repeat;}
+.us_product ul li dl dt .xz2 {background: url(../images/xingzhuang2.png) 0 0 no-repeat;}
+.us_product ul li dl dt div {position: absolute;width: 48px;height: 53px;left: 10px;top: -2px;z-index: 9;color: #fff;text-align: center;}
+.us_product ul li dl dt div span {font-size: 15px;display: block;padding-top: 4px;}
+.us_product ul li dl dt div em {font-size: 12px;}
+.us_product ul li dl dt {padding: 5px;border-bottom: 2px solid #dddddd;}
+.us_product ul li dl dt img {width: 286px;height: 286px;border-radius: 0;-moz-border-radius:0;display: block;margin: 0 auto;}
+.us_product ul li dl dd h3 {line-height: 40px;font-size: 15px;line-height: 39px;padding: 0 12px;height: 40px;}
+.us_product ul li dl dd h3 a {display: inline-block;width: 100%;height: 40px;color: #666666;border-bottom: 2px solid #dddddd;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+.us_product ul li dl dd p {font-size: 12px;color: #666;padding: 15px 12px 15px 52px;line-height: 16px;text-align: left;background: url(../images/textpleft.png) 20px center no-repeat;}
+.us_product ul li p {line-height: 68px;font-size: 12px;color: #666;overflow: hidden;}
+.us_product ul li p span {float: left;font-size: 17px;color: #f18200;}
+.us_product ul li p span em {font-size: 12px;}
+.us_product ul li p a { float: right;width: 80px;height: 26px;line-height: 27px;text-align: center;border: 1px solid #adadad;color: #666;border-radius: 15px;-moz-border-radius: 15px;margin-top: 20px;}
+.us_product ul li p a:hover {color: #fff;background-color: #f18200;border-color: #f18200;}
+.us_product ul li p strong {padding-left: 20px;background: url(../images/vicon.png) 0 center no-repeat;font-size: 12px;color: #999999;float: right;margin-right: 20px;line-height: 69px;}
+.us_product ul li:hover p {color: #666;}
+
+.us_product ul li dl:hover {background: #f18200;}
+.us_product ul li dl:hover dd h3 a,.us_product ul li dl:hover dd p {color: #fff;}
+.us_product ul li dl:hover dd p {background: url(../images/textpleft2.png) 20px center no-repeat;}
+.product_btm {padding-top: 28px;}
+.product_btm h2 {font-size: 24px;color: #f18200;line-height: 44px;margin-bottom: 28px;}
+.product_btm h2 span {padding-left: 44px;background: url(../images/wenhao.png) 0 center no-repeat;}
+.product_btm .con {overflow: hidden;}
+.product_btmcon {width: 103%;overflow: hidden;}
+.product_btm ul {background: #fff;width: 49%;float: left;margin-right: 2%;}
+.product_btm .nomargin {margin-right: 0;}
+.product_btm ul li {border-bottom: 2px solid #f6f6f6;cursor: pointer;}
+.product_btm ul li div {display: table;line-height: 56px;min-height: 56px;_height:56px;width: 100%;}
+.product_btm ul li h3 {color: #333;font-size: 16px;padding-left: 22px;line-height: 24px;display: table-cell;vertical-align: middle;}
+.product_btm ul li h3 a {color: #333;}
+.product_btm ul li h3 a:hover {color: #f18200;}
+.product_btm ul li h3 p {font-size: 12px;color: #666;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;width: 430px;}
+.product_btm ul li img {max-width: 466px;display: block;margin: 15px auto;display: none;}
+.product_btm ul .active img {display: block;}
+
+/*广告*/
+.newad {width: 220px;height: 284px;border: 4px solid #f29931;border-radius: 5px;-moz-border-radius:5px;background: #fff;position: fixed;left: 50%;bottom: 10%;margin-left: -730px;}
+.newad img {width: 100%;height: 284px;}
+.newad a {width: 30px;height: 30px;position: absolute;right: -15px;top: -15px;z-index: 9;background: url(../images/newad.png) 0 0 no-repeat;}
+
+/*产品中心*/
+.products {padding-top: 40px;margin-bottom: 50px;}
+.products .con {background: #fff;padding: 0 56px;width: 820px;position: relative;}
+.products .con .icon1 {position: absolute;right: -101px;top: 85px;z-index: 2;}
+.products .con .icon2 {position: absolute;left: -50px;top: 690px;z-index: 2;}
+.products .con #bannerCtrl img {width: 720px;height: 400px;margin-bottom: 18px;margin: 0 auto;}
+.products .con h2 {font-size: 17px;line-height: 42px;color: #f18200;border-top: 1px solid #ddd;}
+.products .con p {font-size: 12px;color: #666;line-height: 30px;margin-bottom: 24px;text-indent: 2em;}
+.products .us_product {margin-bottom: 25px;}
+.products .us_product ul {width: 99%;border-bottom: 1px solid #ddd;}
+.products .us_product ul li:hover p {color: #f18200;}
+.products .us_product ul li {width: 20%;padding-right: 0;}
+.products .dls {overflow: hidden;}
+.products .dlban {width: 50%;float: left;}
+.products .dlquan {width: 100%;}
+.products .dlban h3 {font-size: 16px;line-height: 30px;}
+.products .dlban h3 a {color: #f18200;}
+.products .dlban p {font-size: 12px;color: #666;text-indent: 0;}
+
+.products #owl-demo2 {margin-top: 0;}
+
+.us_product2 h2 {padding-left: 5px;background: #f6f6f6;width: 927px;padding-right: 0;}
+.us_product2 h2 input {width: 240px;background-position:210px !important;background-color: #fff !important;}
+.us_product2 ul li dl:hover dt {border-color: #f18200;}
+/*.us_product2 ul li {width: 48%;}
+.us_product2 ul li dl dt img {width: 445px;height: 445px;}
+.us_product2 ul li dl dd h3 {font-size: 18px;}
+.us_product2 ul li p span {font-size: 25px;line-height: 73px;}
+.us_product2 ul li p span em,.us_product2 ul li p strong {font-size: 16px;}
+.us_product2 ul li p a {width: 125px;height: 40px;line-height: 41px;margin-top: 14px;border-radius: 40px;-moz-border-radius:40px;font-size: 16px;}
+.us_product ul li p strong {background:url(../images/vicon3.png) 0 center no-repeat;padding-left: 25px;line-height: 73px;}*/
+.us_product2 .moreherf {width: 932px;background-color: #f6f6f6;margin-bottom: 85px;}
+.team2 {background: url(../images/team2.png) 0 0 repeat-x;height: 400px;padding-top: 15px;}
+.team2 #owl-demo .item div {padding: 0;background: none;width: 193px;height: 135px;}
+.team2 #owl-demo .item div img {width: 100%;height: 135px;border-radius: 0;-moz-border-radius:0;}
+.team2 #owl-demo .owl-prev,.team2 #owl-demo .owl-next {top: 58px;}
+.team2 h2 {line-height: 115px;font-size: 24px;color: #fff;width: 932px;margin: 0 auto;}
+.team2 h2 span {padding-left: 44px;background: url(../images/video2.png) 0 center no-repeat;}
+.team2 h2 a {float: right;background: url(../images/more2.png) 64px center no-repeat;padding-right: 34px;color: #fff;font-size: 14px;}
+.team2 #owl-demo .item a {line-height: 80px;color: #fff;font-size: 17px;}
